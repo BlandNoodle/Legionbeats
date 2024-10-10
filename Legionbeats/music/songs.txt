@@ -211,6 +211,36 @@ song = {
 		}
 }
 song = {
+	name = "gremlins6.wav"
+	
+	chance = {
+		modifier = {
+			factor = 1
+			year = 1900
+			}
+	}
+}
+song = {
+	name = "gremlins7.wav"
+	
+	chance = {
+		modifier = {
+			factor = 1
+			year = 1900
+			}
+	}
+}
+song = {
+	name = "gremlins8.wav"
+	
+	chance = {
+		modifier = {
+			factor = 1
+			year = 1900
+			}
+	}
+}
+song = {
 	name = "peking.mp3"
 	
 	chance = {
